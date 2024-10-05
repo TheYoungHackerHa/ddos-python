@@ -11,7 +11,7 @@ def logo():
     print(" \___ \  \___ \ ")
     print("  ___) |  ___) |")
     print(" |____/  |____/ \n")
-    print("Silent Stalker\nBrute Force Tool\nBy: TheYoungHackerHa\n")
+    print("Silent Stalker\nDDoS Attack Tool\nBy: TheYoungHackerHa\n")
 
 def enviar_solicitudes(url):
     while True:
